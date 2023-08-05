@@ -1,0 +1,223 @@
+.Header {
+  width: 100%;
+
+  background: rgba(58, 47, 41, 1);
+  background: -o-linear-gradient(
+    -45deg,
+    rgba(58, 47, 41, 1) 0%,
+    rgba(25, 25, 27, 1) 100%
+  );
+  background: -moz-linear-gradient(
+    -45deg,
+    rgba(58, 47, 41, 1) 0%,
+    rgba(25, 25, 27, 1) 100%
+  );
+  background: -webkit-linear-gradient(
+    -45deg,
+    rgba(58, 47, 41, 1) 0%,
+    rgba(25, 25, 27, 1) 100%
+  );
+  background: linear-gradient(
+    -225deg,
+    rgba(58, 47, 41, 1) 0%,
+    rgba(25, 25, 27, 1) 100%
+  );
+}
+
+.Img {
+  margin-left: 517px;
+}
+header h2 {
+  margin-top: 133px;
+  margin-bottom: 21px;
+  margin-left: 385px;
+  margin-right: 525px;
+
+  width: 181px;
+  height: 29px;
+
+  font-family: "undefined";
+  font-size: 32px;
+  font-style: normal;
+  text-align: right;
+  color: #f1cdb3;
+}
+
+header h4 {
+  margin-top: 21px;
+  margin-left: 386px;
+  margin-right: 1386px;
+  margin-bottom: 1641px;
+
+  width: 180px;
+  height: 13px;
+
+  font-family: "undefined";
+  font-size: 13px;
+  font-style: normal;
+  text-align: right;
+  color: #ffffff;
+}
+
+.About {
+  margin-top: 151px;
+  margin-bottom: 837px;
+  margin-left: 1091px;
+  margin-right: 38px;
+  width: 111px;
+  height: 11px;
+
+  font-family: "undefined";
+  font-size: 15px;
+  font-style: normal;
+  text-align: right;
+  color: #cdcdcd;
+}
+
+.Pets {
+  margin-top: 151px;
+  margin-bottom: 834px;
+  margin-left: 1240px;
+  margin-right: 38px;
+
+  width: 57px;
+  height: 14px;
+
+  font-family: "undefined";
+  font-size: 15px;
+  font-weight: none;
+  font-style: normal;
+  text-align: right;
+  color: #cdcdcd;
+}
+
+.Help {
+  margin-top: 151px;
+  margin-bottom: 834px;
+  margin-left: 1337px;
+  margin-right: 477px;
+
+  width: 120px;
+  height: 14px;
+
+  font-family: "undefined";
+  font-size: 15px;
+  font-weight: undefined;
+  font-style: normal;
+  text-align: right;
+  color: #cdcdcd;
+}
+
+.Contacts {
+  margin-top: 151px;
+  margin-bottom: 837px;
+  margin-left: 1495px;
+  margin-right: 380px;
+
+  width: 59px;
+  height: 11px;
+
+  font-family: "undefined";
+  font-size: 15px;
+  font-weight: undefined;
+  font-style: normal;
+  text-align: right;
+  color: #cdcdcd;
+}
+
+.Info h1 {
+  margin-top: 151px;
+  margin-left: 384px;
+  margin-right: 1204px;
+  margin-bottom: 1299px;
+
+  width: 346px;
+  height: 91px;
+
+  font-family: "undefined";
+  font-size: 44px;
+  font-weight: undefined;
+  font-style: normal;
+  text-align: right;
+  color: #cdcdcd;
+}
+
+.Info p {
+  margin-top: 571px;
+  margin-left: 384px;
+  margin-right: 1107px;
+  margin-bottom: 1191px;
+
+  width: 443px;
+  height: 62px;
+
+  font-family: "undefined";
+  font-size: 15px;
+  font-weight: undefined;
+  font-style: normal;
+  text-align: right;
+  color: #cdcdcd;
+}
+
+.Info button {
+  margin-top: 675px;
+  margin-left: 383px;
+  margin-right: 1344px;
+  margin-bottom: 1094px;
+
+  width: 117px;
+  height: 13px;
+
+  width: 207px;
+  height: 55px;
+  border-radius: 20px;
+  background: rgba(241, 205, 179, 1);
+
+  font-size: 17px;
+  font-weight: undefined;
+  font-style: normal;
+}
+
+.Shelter {
+  margin-top: 1119px;
+  margin-left: 969px;
+  margin-right: 665px;
+  margin-bottom: 626px;
+
+  width: 300px;
+  height: 79px;
+
+  font-family: "undefined";
+  font-size: 35px;
+  font-weight: undefined;
+  font-style: normal;
+  text-align: right;
+  color: #545454;
+}
+
+.CozyHouse img {
+  margin-top: 1087px;
+  margin-left: 552px;
+  margin-right: 1082px;
+  margin-bottom: 329px;
+
+  width: 300px;
+  height: 408px;
+}
+
+.Lorem {
+  margin-top: 1235px;
+  margin-left: 972px;
+  margin-right: 548px;
+  margin-bottom: 359px;
+
+  width: 414px;
+  height: 230px;
+
+  font-family: "undefined";
+  font-size: 15px;
+  font-weight: undefined;
+  font-style: normal;
+  text-align: right;
+  color: #4c4c4c;
+}
